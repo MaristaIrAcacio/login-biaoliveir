@@ -7,4 +7,5 @@ function acessar() {
     } else {
        alert("Campos preenchidos com sucesso");
     }
+    Window.location = "aula2.html";
 }
